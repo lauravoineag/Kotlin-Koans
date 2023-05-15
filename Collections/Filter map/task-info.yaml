@@ -4,16 +4,16 @@ files:
   visible: true
   placeholders:
   - offset: 106
-    length: 6
+    length: 10
     placeholder_text: TODO()
     initial_state:
       length: 6
       offset: 106
     initialized_from_dependency: false
-    selected: false
+    selected: true
     status: Unchecked
     encrypted_possible_answer: Cm/VZjyWEXn+fUJ1SZSuxnNIZ3DaUV+wzVytQTiaSyhNX7rOWqt1ZhaY3QuvSFC3
-  - offset: 223
+  - offset: 227
     length: 6
     placeholder_text: TODO()
     initial_state:
